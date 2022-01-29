@@ -19,7 +19,7 @@
 		"url": "https://github.com/yushijinhun/three-minifier/issues"
 	},
 	"dependencies": {
-		"@yushijinhun/three-minifier-common": "^0.3.0",
+		"@yushijinhun/three-minifier-common": "^0.3.1",
 		"webpack": "^5.51.1"
 	},
 	"publishConfig": {
